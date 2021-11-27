@@ -14,3 +14,6 @@ We used the Bikeshare data for 3 cities, namely: chicago, washington, new york c
 
 ### Credits
 No details available.
+
+### List of what software Used.
+In this project, codes were written using the ATOM software and was run using ANACONDA Navigator.
