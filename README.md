@@ -17,3 +17,6 @@ No details available.
 
 ### List of what software Used.
 In this project, codes were written using the ATOM software and was run using ANACONDA Navigator.
+
+### Log of updates and revisions
+There has been no update or revision on this project yet.
